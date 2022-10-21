@@ -4756,3 +4756,5 @@ repeat wait(1) until game:IsLoaded()
         else
             game.Players.LocalPlayer:Kick(j["message"])
     end
+
+--------key--------
